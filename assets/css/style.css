@@ -24,7 +24,7 @@ div {
 
 h1 {
     background: #4aaaa5;
-    color: white;
+    color: #ffffff;
     font-family: 'Georgia', Times, Times New Roman, serif;
     padding: 30px;
     position: absolute;
@@ -89,7 +89,10 @@ img {
 footer {
     clear: both;
     background: #666666;
-    
+    color: #cccccc;
     text-align: center;
-    padding: 30px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-size: 13px;
+    border-top: 8px solid #4aaaa5;
 }
